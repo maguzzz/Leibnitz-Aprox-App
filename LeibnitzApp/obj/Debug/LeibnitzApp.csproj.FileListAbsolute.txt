@@ -1,0 +1,64 @@
+C:\Programming\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.exe.config
+C:\Programming\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.exe
+C:\Programming\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.pdb
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.AssemblyReference.cache
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.SuggestedBindingRedirects.cache
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\MainWindow.g.cs
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\App.g.cs
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp_MarkupCompile.cache
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp_MarkupCompile.lref
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\MainWindow.baml
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.g.resources
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.Properties.Resources.resources
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.GenerateResource.cache
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.CoreCompileInputs.cache
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.exe
+C:\Programming\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.pdb
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.exe.config
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.exe
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.pdb
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.AssemblyReference.cache
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\MainWindow.g.cs
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\App.g.cs
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp_MarkupCompile.cache
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp_MarkupCompile.lref
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\MainWindow.baml
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.g.resources
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.Properties.Resources.resources
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.GenerateResource.cache
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.CoreCompileInputs.cache
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.exe
+\\192.168.2.2\App15b\_Arbeitsaufträge_Brunner\1_PI_130423\Abgaben\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.pdb
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.exe.config
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.exe
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.pdb
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.AssemblyReference.cache
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\MainWindow.g.cs
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\App.g.cs
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp_MarkupCompile.cache
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp_MarkupCompile.lref
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\MainWindow.baml
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.g.resources
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.Properties.Resources.resources
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.GenerateResource.cache
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.CoreCompileInputs.cache
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.exe
+C:\Users\marku\OneDrive\Desktop\Schule\BlockWoche\Touray_Markus\UI App\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.pdb
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.exe.config
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.exe
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\bin\Debug\LeibnitzApp.pdb
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.AssemblyReference.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\MainWindow.g.cs
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\App.g.cs
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp_MarkupCompile.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp_MarkupCompile.lref
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\MainWindow.baml
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.g.resources
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.Properties.Resources.resources
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.GenerateResource.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.csproj.CoreCompileInputs.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.exe
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Debug\LeibnitzApp.pdb

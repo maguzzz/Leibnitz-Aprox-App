@@ -1,0 +1,16 @@
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\bin\Release\LeibnitzApp.exe.config
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\bin\Release\LeibnitzApp.exe
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\bin\Release\LeibnitzApp.pdb
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp.csproj.AssemblyReference.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\MainWindow.g.cs
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\App.g.cs
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp_MarkupCompile.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp_MarkupCompile.lref
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\MainWindow.baml
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp.g.resources
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp.Properties.Resources.resources
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp.csproj.GenerateResource.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp.csproj.CoreCompileInputs.cache
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp.exe
+C:\Users\marku\OneDrive\Dokumente\LeibnitzApp\LeibnitzApp\obj\Release\LeibnitzApp.pdb
